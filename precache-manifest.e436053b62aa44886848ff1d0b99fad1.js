@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1600c1ad9d9b47241c24",
+    "revision": "d23947a89302bfb9fd97",
     "url": "/Context-app-with-notes-articiles/static/css/main.70366706.chunk.css"
   },
   {
-    "revision": "1600c1ad9d9b47241c24",
-    "url": "/Context-app-with-notes-articiles/static/js/main.3500dc5a.chunk.js"
+    "revision": "d23947a89302bfb9fd97",
+    "url": "/Context-app-with-notes-articiles/static/js/main.6a6d81e9.chunk.js"
   },
   {
     "revision": "eb7eb2f332a13f52248c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/Context-app-with-notes-articiles/static/media/logo.a87d0f35.svg"
   },
   {
-    "revision": "8254ff77c268f59b0a2d0284a5e687d4",
+    "revision": "6ebb5a9349a256b9d86a8c8916b69936",
     "url": "/Context-app-with-notes-articiles/index.html"
   }
 ];
