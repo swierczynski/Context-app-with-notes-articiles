@@ -1,0 +1,37 @@
+.wrapper {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50vw;
+  box-shadow: 0 10px 40px -15px black;
+  border-radius: 20px;
+  background-color: rgb(253, 218, 223);
+
+  & .btnToClose {
+    margin-right: 0;
+    margin-left: 100%;
+    position: relative;
+    top: -20px;
+    left: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 7px 12px;
+    font-weight: 500;
+    background: #1e58ff;
+    border: 2px solid #1e58ff;
+    color: white;
+    border-radius: 50%;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    box-shadow: 0 10px 40px -5px black;
+  }
+}
+
+@media (max-width: 800px) {
+  .wrapper {
+    width: 70vw;
+    height: 70vh;
+  }
+}

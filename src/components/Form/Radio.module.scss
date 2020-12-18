@@ -1,0 +1,11 @@
+.radio {
+  margin: 10px;
+  font-weight: bold;
+  font-size: 50px;
+  color: #1e58ff;
+
+
+  &:focus {
+    outline: 0px;
+  }
+}

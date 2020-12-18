@@ -1,0 +1,23 @@
+.formItem {
+  width: 100%;
+  margin: 16px 0;
+  position: relative;
+  flex-shrink: 0;
+
+
+
+  & .inputForm {
+    padding: 5px 10px;
+    background-color: rgb(253, 218, 223);
+    border: none;
+    width: 100%;
+    font-size: 15px;
+
+    &:focus {
+      color: #1e58ff;
+      border: none;
+      font-size: 15px;
+    }
+  }
+
+}
